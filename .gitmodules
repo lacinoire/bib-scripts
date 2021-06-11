@@ -1,0 +1,3 @@
+[submodule "title"]
+	path = title
+	url = git@github.com:lacinoire/title.git
